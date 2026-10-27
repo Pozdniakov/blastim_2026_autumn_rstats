@@ -1,0 +1,389 @@
+...1,name,Gender,Eye color,Race,Hair color,Height,Publisher,Skin color,Alignment,Weight
+0,A-Bomb,Male,yellow,Human,No Hair,203,Marvel Comics,NA,good,441
+3,Abomination,Male,green,Human / Radiation,No Hair,203,Marvel Comics,NA,bad,441
+4,Abraxas,Male,blue,Cosmic Entity,Black,NA,Marvel Comics,NA,bad,NA
+5,Absorbing Man,Male,blue,Human,No Hair,193,Marvel Comics,NA,bad,122
+8,Agent 13,Female,blue,NA,Blond,173,Marvel Comics,NA,good,61
+9,Agent Bob,Male,brown,Human,Brown,178,Marvel Comics,NA,good,81
+10,Agent Zero,Male,NA,NA,NA,191,Marvel Comics,NA,good,104
+11,Air-Walker,Male,blue,NA,White,188,Marvel Comics,NA,bad,108
+12,Ajax,Male,brown,Cyborg,Black,193,Marvel Comics,NA,bad,90
+20,Ammo,Male,brown,Human,Black,188,Marvel Comics,NA,bad,101
+22,Angel,Male,blue,NA,Blond,183,Marvel Comics,NA,good,68
+24,Angel Dust,Female,yellow,Mutant,Black,165,Marvel Comics,NA,good,57
+25,Angel Salvadore,Female,brown,NA,Black,163,Marvel Comics,NA,good,54
+28,Annihilus,Male,green,NA,No Hair,180,Marvel Comics,NA,bad,90
+29,Ant-Man,Male,blue,Human,Blond,211,Marvel Comics,NA,good,122
+30,Ant-Man II,Male,blue,Human,Blond,183,Marvel Comics,NA,good,86
+33,Anti-Venom,Male,blue,Symbiote,Blond,229,Marvel Comics,NA,NA,358
+34,Apocalypse,Male,red,Mutant,Black,213,Marvel Comics,grey,bad,135
+38,Arachne,Female,blue,Human,Blond,175,Marvel Comics,NA,good,63
+39,Archangel,Male,blue,Mutant,Blond,183,Marvel Comics,blue,good,68
+40,Arclight,Female,violet,NA,Purple,173,Marvel Comics,NA,bad,57
+41,Ardina,Female,white,Alien,Orange,193,Marvel Comics,gold,good,98
+42,Ares,Male,brown,NA,Brown,185,Marvel Comics,NA,good,270
+43,Ariel,Female,purple,NA,Pink,165,Marvel Comics,NA,good,59
+44,Armor,Female,black,NA,Black,163,Marvel Comics,NA,good,50
+47,Atlas,Male,brown,Mutant,Red,183,Marvel Comics,NA,good,101
+55,Aurora,Female,blue,Mutant,Black,180,Marvel Comics,NA,good,63
+56,Azazel,Male,yellow,Neyaphem,Black,183,Marvel Comics,red,bad,67
+60,Banshee,Male,green,Human,Strawberry Blond,183,Marvel Comics,NA,good,77
+61,Bantam,Male,brown,NA,Black,165,Marvel Comics,NA,good,54
+71,Battlestar,Male,brown,NA,Black,198,Marvel Comics,NA,good,133
+73,Beak,Male,black,NA,White,175,Marvel Comics,NA,good,63
+74,Beast,Male,blue,Mutant,Blue,180,Marvel Comics,blue,good,181
+76,Beetle,Male,NA,NA,NA,NA,Marvel Comics,NA,bad,NA
+78,Beta Ray Bill,Male,NA,NA,No Hair,201,Marvel Comics,NA,good,216
+79,Beyonder,Male,NA,God / Eternal,NA,NA,Marvel Comics,NA,good,NA
+82,Big Man,Male,blue,NA,Brown,165,Marvel Comics,NA,bad,71
+85,Binary,Female,blue,NA,Blond,180,Marvel Comics,NA,good,54
+87,Bird-Brain,NA,NA,NA,NA,NA,Marvel Comics,NA,good,NA
+88,Bird-Man,Male,NA,Human,NA,NA,Marvel Comics,NA,bad,NA
+89,Bird-Man II,Male,NA,Human,NA,NA,Marvel Comics,NA,bad,NA
+91,Bishop,Male,brown,Mutant,No Hair,198,Marvel Comics,NA,good,124
+93,Black Abbott,Male,red,NA,Black,NA,Marvel Comics,NA,bad,NA
+95,Black Bolt,Male,blue,Inhuman,Black,188,Marvel Comics,NA,good,95
+98,Black Cat,Female,green,Human,Blond,178,Marvel Comics,NA,good,54
+100,Black Goliath,Male,NA,NA,NA,NA,Marvel Comics,NA,good,NA
+101,Black Knight III,Male,brown,Human,Brown,183,Marvel Comics,NA,good,86
+103,Black Mamba,Female,green,NA,Black,170,Marvel Comics,NA,bad,52
+105,Black Panther,Male,brown,Human,Black,183,Marvel Comics,NA,good,90
+106,Black Widow,Female,green,Human,Auburn,170,Marvel Comics,NA,good,59
+107,Black Widow II,Female,blue,NA,Blond,170,Marvel Comics,NA,good,61
+108,Blackout,Male,red,Demon,White,191,Marvel Comics,white,bad,104
+109,Blackwing,Male,blue,NA,Black,185,Marvel Comics,NA,bad,86
+110,Blackwulf,Male,red,Alien,White,188,Marvel Comics,NA,NA,88
+111,Blade,Male,brown,Vampire,Black,188,Marvel Comics,NA,good,97
+112,Blaquesmith,NA,black,NA,No Hair,NA,Marvel Comics,NA,good,NA
+113,Bling!,Female,NA,NA,NA,168,Marvel Comics,NA,good,68
+114,Blink,Female,green,Mutant,Magenta,165,Marvel Comics,pink,good,56
+115,Blizzard,Male,NA,NA,NA,NA,Marvel Comics,NA,bad,NA
+116,Blizzard,Male,NA,NA,Brown,NA,Marvel Comics,NA,bad,NA
+117,Blizzard II,Male,brown,NA,Brown,175,Marvel Comics,NA,bad,77
+118,Blob,Male,brown,NA,Brown,178,Marvel Comics,NA,bad,230
+119,Bloodaxe,Female,blue,Human,Brown,218,Marvel Comics,NA,bad,495
+120,Bloodhawk,Male,black,Mutant,No Hair,NA,Marvel Comics,NA,good,NA
+121,Bloodwraith,Male,white,NA,No Hair,30.5,Marvel Comics,NA,bad,NA
+127,Bolt,Male,NA,NA,NA,NA,Marvel Comics,NA,good,NA
+129,Boom-Boom,Female,blue,Mutant,Blond,165,Marvel Comics,NA,good,55
+130,Boomer,Female,NA,NA,NA,NA,Marvel Comics,NA,good,NA
+132,Box,Male,NA,NA,NA,NA,Marvel Comics,NA,good,NA
+133,Box III,NA,blue,NA,Blond,193,Marvel Comics,NA,good,110
+134,Box IV,NA,brown,NA,Brown / Black,NA,Marvel Comics,NA,good,NA
+137,Brother Voodoo,Male,brown,Human,Brown / White,183,Marvel Comics,NA,good,99
+140,Bullseye,Male,blue,Human,blond,183,Marvel Comics,NA,bad,90
+142,Bumbleboy,Male,NA,NA,NA,NA,Marvel Comics,NA,good,NA
+144,Cable,Male,blue,Mutant,White,203,Marvel Comics,NA,good,158
+145,Callisto,Female,blue,NA,Black,175,Marvel Comics,NA,bad,74
+147,Cannonball,Male,blue,NA,Blond,183,Marvel Comics,NA,good,81
+148,Captain America,Male,blue,Human,blond,188,Marvel Comics,NA,good,108
+150,Captain Britain,Male,blue,Human,Blond,198,Marvel Comics,NA,good,116
+154,Captain Mar-vell,Male,blue,NA,Blond,188,Marvel Comics,NA,good,108
+155,Captain Marvel,Female,blue,Human-Kree,Blond,180,Marvel Comics,NA,good,74
+159,Captain Planet,Male,red,God / Eternal,Green,NA,Marvel Comics,NA,good,NA
+160,Captain Universe,NA,NA,God / Eternal,NA,NA,Marvel Comics,NA,good,NA
+161,Carnage,Male,green,Symbiote,Red,185,Marvel Comics,NA,bad,86
+162,Cat,Female,blue,NA,Blond,173,Marvel Comics,NA,good,61
+163,Cat II,Female,NA,NA,NA,NA,Marvel Comics,NA,good,NA
+165,Cecilia Reyes,NA,brown,NA,Brown,170,Marvel Comics,NA,good,62
+166,Century,Male,white,Alien,White,201,Marvel Comics,grey,good,97
+167,Cerebra,Female,NA,Mutant,NA,NA,Marvel Comics,NA,good,NA
+168,Chamber,Male,brown,Mutant,Brown,175,Marvel Comics,NA,good,63
+170,Changeling,Male,brown,NA,Black,180,Marvel Comics,NA,bad,81
+178,Clea,NA,NA,NA,White,NA,Marvel Comics,NA,good,NA
+179,Cloak,Male,brown,NA,black,226,Marvel Comics,NA,good,70
+184,Colossus,Male,silver,Mutant,Black,226,Marvel Comics,NA,good,225
+185,Copycat,Female,red,Mutant,White,183,Marvel Comics,blue,neutral,67
+186,Corsair,Male,brown,NA,Brown,191,Marvel Comics,NA,good,79
+187,Cottonmouth,Male,brown,Human,Black,183,Marvel Comics,NA,bad,99
+188,Crimson Crusader,Male,blue,NA,Strawberry Blond,NA,Marvel Comics,NA,good,NA
+189,Crimson Dynamo,Male,brown,NA,No Hair,180,Marvel Comics,NA,good,104
+190,Crystal,Female,green,Inhuman,Red,168,Marvel Comics,NA,good,50
+195,Cyclops,Male,brown,Mutant,Brown,191,Marvel Comics,NA,good,88
+196,Cypher,NA,blue,NA,Blond,175,Marvel Comics,NA,good,68
+197,Dagger,Female,blue,NA,Blond,165,Marvel Comics,NA,good,52
+200,Daredevil,Male,blue,Human,Red,183,Marvel Comics,NA,good,90
+201,Darkhawk,Male,brown,Human,Brown,185,Marvel Comics,NA,good,81
+205,Darkstar,Female,brown,Mutant,Blond,168,Marvel Comics,NA,good,56
+210,Dazzler,Female,blue,Mutant,Blond,173,Marvel Comics,NA,good,52
+212,Deadpool,Male,brown,Mutant,No Hair,188,Marvel Comics,NA,neutral,95
+214,Deathlok,Male,brown,Cyborg,Grey,193,Marvel Comics,NA,good,178
+216,Demogoblin,Male,red,Demon,No Hair,185,Marvel Comics,NA,bad,95
+217,Destroyer,Male,NA,NA,NA,188,Marvel Comics,NA,bad,383
+218,Diamondback,Male,brown,Human,Black,193,Marvel Comics,NA,bad,90
+220,Doc Samson,Male,blue,Human / Radiation,Green,198,Marvel Comics,NA,good,171
+221,Doctor Doom,Male,brown,Human,Brown,201,Marvel Comics,NA,bad,187
+222,Doctor Doom II,Male,brown,NA,Brown,201,Marvel Comics,NA,bad,132
+224,Doctor Octopus,Male,brown,Human,Brown,175,Marvel Comics,NA,bad,110
+225,Doctor Strange,Male,grey,Human,Black,188,Marvel Comics,NA,good,81
+226,Domino,Female,blue,Human,Black,173,Marvel Comics,white,good,54
+230,Doppelganger,Male,white,NA,No Hair,196,Marvel Comics,NA,bad,104
+231,Dormammu,Male,yellow,NA,No Hair,185,Marvel Comics,NA,bad,NA
+233,Drax the Destroyer,Male,red,Human / Altered,No Hair,193,Marvel Comics,green,good,306
+234,Ego,NA,NA,NA,NA,NA,Marvel Comics,NA,bad,NA
+236,Electro,Male,blue,Human,Auburn,180,Marvel Comics,NA,bad,74
+237,Elektra,Female,blue,Human,Black,175,Marvel Comics,NA,good,59
+240,Emma Frost,Female,blue,NA,Blond,178,Marvel Comics,NA,good,65
+246,Evil Deadpool,Male,white,Mutant,Red,188,Marvel Comics,NA,bad,95
+247,Evilhawk,Male,red,Alien,Black,191,Marvel Comics,green,bad,106
+248,Exodus,Male,blue,Mutant,Black,183,Marvel Comics,red,bad,88
+249,Fabian Cortez,NA,blue,NA,Brown,196,Marvel Comics,NA,bad,96
+250,Falcon,Male,brown,Human,Black,188,Marvel Comics,NA,good,108
+251,Fallen One II,Male,black,NA,Blue,NA,Marvel Comics,NA,bad,NA
+253,Feral,NA,yellow (without irises),NA,Orange / White,175,Marvel Comics,NA,good,50
+255,Fin Fang Foom,Male,red,Kakarantharaian,No Hair,975,Marvel Comics,green,good,18
+256,Firebird,Female,brown,NA,Black,165,Marvel Comics,NA,good,56
+257,Firelord,NA,white,NA,Yellow,193,Marvel Comics,NA,good,99
+258,Firestar,Female,green,Mutant,Red,173,Marvel Comics,NA,good,56
+261,Fixer,NA,red,NA,No Hair,NA,Marvel Comics,NA,bad,NA
+267,Forge,NA,brown,NA,Black,183,Marvel Comics,NA,good,81
+268,Franklin Richards,Male,blue,Mutant,Blond,142,Marvel Comics,NA,good,45
+269,Franklin Storm,NA,blue,NA,Grey,188,Marvel Comics,NA,good,92
+270,Frenzy,Female,brown,NA,Black,211,Marvel Comics,NA,bad,104
+271,Frigga,Female,blue,NA,White,180,Marvel Comics,NA,good,167
+272,Galactus,Male,black,Cosmic Entity,Black,876,Marvel Comics,NA,neutral,16
+273,Gambit,Male,red,Mutant,Brown,185,Marvel Comics,NA,good,81
+274,Gamora,Female,yellow,Zen-Whoberian,Black,183,Marvel Comics,green,good,77
+278,Genesis,Male,blue,NA,Blond,185,Marvel Comics,NA,good,86
+279,Ghost Rider,Male,red,Demon,No Hair,188,Marvel Comics,NA,good,99
+280,Ghost Rider II,NA,NA,NA,NA,NA,Marvel Comics,NA,good,NA
+281,Giant-Man,Male,NA,Human,NA,NA,Marvel Comics,NA,good,NA
+282,Giant-Man II,Male,NA,NA,NA,NA,Marvel Comics,NA,good,NA
+284,Gladiator,Male,blue,Strontian,Blue,198,Marvel Comics,purple,neutral,268
+285,Goblin Queen,Female,green,NA,Red,168,Marvel Comics,NA,bad,50
+289,Goliath,Male,NA,NA,NA,NA,Marvel Comics,NA,good,NA
+290,Goliath,Male,NA,Human,NA,NA,Marvel Comics,NA,good,NA
+291,Goliath,Male,NA,Human,NA,NA,Marvel Comics,NA,good,NA
+292,Goliath IV,Male,brown,NA,Black,183,Marvel Comics,NA,good,90
+295,Gravity,Male,blue,Human,Brown,178,Marvel Comics,NA,good,79
+298,Green Goblin,Male,blue,Human,Auburn,180,Marvel Comics,NA,bad,83
+299,Green Goblin II,Male,blue,NA,Auburn,178,Marvel Comics,NA,bad,77
+300,Green Goblin III,Male,NA,NA,NA,183,Marvel Comics,NA,good,88
+301,Green Goblin IV,Male,green,NA,Brown,178,Marvel Comics,NA,good,79
+302,Groot,Male,yellow,Flora Colossus,NA,701,Marvel Comics,NA,good,4
+303,Guardian,Male,brown,Human,Black,NA,Marvel Comics,NA,good,NA
+310,Havok,Male,blue,Mutant,Blond,183,Marvel Comics,NA,good,79
+312,Hawkeye,Male,blue,Human,Blond,191,Marvel Comics,NA,good,104
+313,Hawkeye II,Female,blue,Human,Black,165,Marvel Comics,NA,good,57
+320,Hela,Female,green,Asgardian,Black,213,Marvel Comics,NA,bad,225
+322,Hellcat,Female,blue,Human,Red,173,Marvel Comics,NA,good,61
+323,Hellstorm,Male,red,NA,Red,185,Marvel Comics,NA,good,81
+324,Hercules,Male,blue,Demi-God,Brown,196,Marvel Comics,NA,good,146
+327,Hobgoblin,Male,blue,NA,Grey,180,Marvel Comics,NA,bad,83
+328,Hollow,Female,blue,NA,Red,170,Marvel Comics,NA,good,NA
+329,Hope Summers,Female,green,NA,Red,168,Marvel Comics,NA,good,48
+330,Howard the Duck,Male,brown,NA,Yellow,79,Marvel Comics,NA,good,18
+331,Hulk,Male,green,Human / Radiation,Green,244,Marvel Comics,green,good,630
+332,Human Torch,Male,blue,Human / Radiation,Blond,178,Marvel Comics,NA,good,77
+334,Husk,Female,blue,Mutant,Blond,170,Marvel Comics,NA,good,58
+335,Hybrid,Male,brown,Symbiote,Black,175,Marvel Comics,NA,good,77
+336,Hydro-Man,Male,brown,NA,Brown,188,Marvel Comics,NA,bad,119
+337,Hyperion,Male,blue,Eternal,Red,183,Marvel Comics,NA,good,207
+338,Iceman,Male,brown,Mutant,Brown,173,Marvel Comics,NA,good,65
+342,Ink,Male,blue,Mutant,No Hair,180,Marvel Comics,NA,good,81
+343,Invisible Woman,Female,blue,Human / Radiation,Blond,168,Marvel Comics,NA,good,54
+344,Iron Fist,Male,blue,Human,Blond,180,Marvel Comics,NA,good,79
+345,Iron Man,Male,blue,Human,Black,198,Marvel Comics,NA,good,191
+346,Iron Monger,Male,blue,NA,No Hair,NA,Marvel Comics,NA,bad,2
+349,Jack of Hearts,Male,blue / white,Human,Brown,155,Marvel Comics,NA,good,79
+355,Jean Grey,Female,green,Mutant,Red,168,Marvel Comics,NA,good,52
+357,Jennifer Kale,Female,blue,NA,Blond,168,Marvel Comics,NA,good,55
+360,Jessica Jones,Female,brown,Human,Brown,170,Marvel Comics,NA,good,56
+362,Jigsaw,Male,blue,NA,Black,188,Marvel Comics,NA,bad,113
+368,John Wraith,Male,brown,NA,Black,183,Marvel Comics,NA,good,88
+370,Jolt,Female,blue,NA,Black,165,Marvel Comics,NA,good,49
+371,Jubilee,Female,red,Mutant,Black,165,Marvel Comics,NA,good,52
+373,Juggernaut,Male,blue,Human,Red,287,Marvel Comics,NA,neutral,855
+374,Junkpile,Male,NA,Mutant,NA,NA,Marvel Comics,NA,bad,NA
+375,Justice,Male,hazel,Human,Brown,178,Marvel Comics,NA,good,81
+378,Kang,Male,brown,NA,Brown,191,Marvel Comics,NA,bad,104
+391,Kingpin,Male,blue,Human,No Hair,201,Marvel Comics,NA,bad,203
+392,Klaw,Male,red,Human,No Hair,188,Marvel Comics,red,bad,97
+394,Kraven II,Male,brown,Human,Black,191,Marvel Comics,NA,bad,99
+395,Kraven the Hunter,Male,brown,Human,Black,183,Marvel Comics,NA,bad,106
+399,Lady Bullseye,Female,NA,NA,Black,NA,Marvel Comics,NA,bad,NA
+400,Lady Deathstrike,Female,brown,Cyborg,Black,175,Marvel Comics,NA,bad,58
+401,Leader,Male,green,NA,No Hair,178,Marvel Comics,NA,bad,63
+402,Leech,Male,NA,NA,NA,NA,Marvel Comics,NA,good,NA
+403,Legion,Male,green / blue,Mutant,Black,175,Marvel Comics,NA,good,59
+409,Living Brain,NA,yellow,NA,NA,198,Marvel Comics,NA,bad,360
+410,Living Tribunal,NA,blue,Cosmic Entity,No Hair,NA,Marvel Comics,gold,neutral,NA
+412,Lizard,Male,red,Human,No Hair,203,Marvel Comics,NA,bad,230
+414,Loki,Male,green,Asgardian,Black,193,Marvel Comics,NA,bad,236
+415,Longshot,Male,blue,Human,Blond,188,Marvel Comics,NA,good,36
+416,Luke Cage,Male,brown,Human,Black,198,Marvel Comics,NA,good,191
+419,Luna,Female,NA,Human,NA,NA,Marvel Comics,NA,good,NA
+420,Lyja,Female,green,NA,Green,NA,Marvel Comics,NA,good,NA
+421,Mach-IV,Male,brown,NA,Brown,180,Marvel Comics,NA,bad,79
+422,Machine Man,NA,red,NA,Black,183,Marvel Comics,NA,good,383
+423,Magneto,Male,grey,Mutant,White,188,Marvel Comics,NA,bad,86
+425,Magus,Male,black,NA,NA,183,Marvel Comics,NA,bad,NA
+428,Man-Thing,Male,red,NA,No Hair,213,Marvel Comics,green,good,225
+429,Man-Wolf,Male,brown,NA,Auburn,188,Marvel Comics,NA,good,90
+430,Mandarin,Male,blue,Human,White,188,Marvel Comics,NA,bad,97
+431,Mantis,Female,green,Human-Kree,Black,168,Marvel Comics,green,good,52
+433,Marvel Girl,Female,green,NA,Red,170,Marvel Comics,NA,good,56
+438,Maverick,Male,blue,NA,Black,193,Marvel Comics,NA,good,110
+441,Medusa,Female,green,Inhuman,Red,180,Marvel Comics,NA,good,59
+442,Meltdown,Female,blue,NA,Blond,165,Marvel Comics,NA,good,54
+443,Mephisto,Male,white,NA,Black,198,Marvel Comics,NA,bad,140
+447,Meteorite,Female,NA,NA,NA,NA,Marvel Comics,NA,good,NA
+452,Mimic,Male,brown,NA,Brown,188,Marvel Comics,NA,good,101
+456,Mister Fantastic,Male,brown,Human / Radiation,Brown,185,Marvel Comics,NA,good,81
+458,Mister Knife,Male,blue,Spartoi,Brown,NA,Marvel Comics,NA,bad,NA
+460,Mister Sinister,Male,red,Human / Altered,Black,196,Marvel Comics,NA,bad,128
+462,Mockingbird,Female,blue,Human,Blond,175,Marvel Comics,NA,good,61
+463,MODOK,Male,white,Cyborg,Brownn,366,Marvel Comics,NA,bad,338
+467,Molten Man,Male,gold,NA,Gold,196,Marvel Comics,NA,bad,248
+470,Moon Knight,Male,brown,Human,Brown,188,Marvel Comics,NA,good,101
+471,Moonstone,Female,blue,NA,Blond,180,Marvel Comics,NA,bad,59
+472,Morlun,Male,white / red,NA,Black,188,Marvel Comics,NA,bad,79
+473,Morph,Male,white,NA,No Hair,178,Marvel Comics,NA,good,79
+474,Moses Magnum,Male,brown,NA,Black,175,Marvel Comics,NA,bad,72
+475,Mr Immortal,Male,blue,Mutant,Blond,188,Marvel Comics,NA,good,70
+477,Ms Marvel II,Female,blue,NA,Red,173,Marvel Comics,NA,good,61
+478,Multiple Man,Male,blue,NA,Brown,180,Marvel Comics,NA,good,70
+479,Mysterio,Male,brown,Human,No Hair,180,Marvel Comics,NA,bad,79
+480,Mystique,Female,yellow (without irises),Mutant,Red / Orange,178,Marvel Comics,blue,bad,54
+481,Namor,Male,NA,NA,NA,NA,Marvel Comics,NA,good,NA
+482,Namor,Male,grey,Atlantean,Black,188,Marvel Comics,NA,good,125
+483,Namora,Female,blue,NA,Blond,180,Marvel Comics,NA,good,85
+484,Namorita,Female,blue,NA,Blond,168,Marvel Comics,NA,good,101
+487,Nebula,Female,blue,Luphomoid,No Hair,185,Marvel Comics,blue,bad,83
+488,Negasonic Teenage Warhead,Female,black,Mutant,Black,NA,Marvel Comics,NA,good,NA
+489,Nick Fury,Male,brown,Human,Brown / White,185,Marvel Comics,NA,good,99
+490,Nightcrawler,Male,yellow,NA,Indigo,175,Marvel Comics,NA,good,88
+495,Northstar,Male,blue,NA,Black,180,Marvel Comics,NA,good,83
+496,Nova,Male,brown,Human,Brown,185,Marvel Comics,NA,good,86
+497,Nova,Female,white,Human / Cosmic,Red,163,Marvel Comics,gold,good,59
+498,Odin,Male,blue,God / Eternal,White,206,Marvel Comics,NA,good,293
+500,Omega Red,Male,red,NA,Blond,211,Marvel Comics,NA,bad,191
+503,One-Above-All,NA,NA,Cosmic Entity,NA,NA,Marvel Comics,NA,neutral,NA
+504,Onslaught,Male,red,Mutant,No Hair,305,Marvel Comics,NA,bad,405
+511,Penance,NA,NA,NA,NA,NA,Marvel Comics,NA,good,NA
+512,Penance I,Female,NA,NA,NA,NA,Marvel Comics,NA,good,NA
+513,Penance II,Male,blue,NA,Blond,183,Marvel Comics,NA,good,89
+518,Phoenix,Female,green,Mutant,Red,168,Marvel Comics,NA,good,52
+519,Plantman,Male,green,Mutant,Grey,183,Marvel Comics,NA,bad,87
+524,Polaris,Female,green,Mutant,Green,170,Marvel Comics,NA,good,52
+526,Power Man,Male,NA,Mutant,NA,NA,Marvel Comics,NA,good,NA
+528,Professor X,Male,blue,Mutant,No Hair,183,Marvel Comics,NA,good,86
+530,Proto-Goblin,Male,green,NA,Blond,NA,Marvel Comics,NA,bad,NA
+531,Psylocke,Female,blue,Mutant,Purple,180,Marvel Comics,NA,good,70
+532,Punisher,Male,blue,Human,Black,183,Marvel Comics,NA,good,90
+533,Purple Man,Male,purple,Human,Purple,180,Marvel Comics,purple,bad,74
+534,Pyro,Male,blue,NA,Blond,178,Marvel Comics,NA,bad,68
+538,Quicksilver,Male,blue,Mutant,Silver,183,Marvel Comics,NA,good,79
+539,Quill,Male,brown,NA,Brown,163,Marvel Comics,NA,good,56
+546,Razor-Fist II,Male,blue,NA,No Hair,191,Marvel Comics,NA,bad,117
+549,Red Hulk,Male,yellow,Human / Radiation,Black,213,Marvel Comics,red,neutral,630
+552,Red Skull,Male,blue,NA,No Hair,188,Marvel Comics,NA,bad,108
+558,Rhino,Male,brown,Human / Radiation,Brown,196,Marvel Comics,NA,bad,320
+562,Ripcord,Female,green,NA,Black,180,Marvel Comics,NA,good,72
+568,Rocket Raccoon,Male,brown,Animal,Brown,122,Marvel Comics,NA,good,25
+569,Rogue,Female,green,NA,Brown / White,173,Marvel Comics,NA,good,54
+570,Ronin,Male,blue,Human,Blond,191,Marvel Comics,NA,good,104
+572,Sabretooth,Male,amber,Mutant,Blond,198,Marvel Comics,NA,bad,171
+573,Sage,Female,blue,NA,Black,170,Marvel Comics,NA,good,61
+574,Sandman,Male,brown,Human,Brown,185,Marvel Comics,NA,neutral,203
+575,Sasquatch,Male,red,NA,Orange,305,Marvel Comics,NA,good,900
+579,Scarlet Spider,Male,blue,Human,Blond,178,Marvel Comics,NA,good,74
+580,Scarlet Spider II,Male,brown,Clone,Brown,193,Marvel Comics,NA,good,113
+581,Scarlet Witch,Female,blue,Mutant,Brown,170,Marvel Comics,NA,bad,59
+582,Scorpia,Female,green,NA,Red,NA,Marvel Comics,NA,bad,NA
+583,Scorpion,Male,brown,Human,Brown,211,Marvel Comics,NA,bad,310
+584,Sebastian Shaw,Male,NA,Mutant,NA,NA,Marvel Comics,NA,bad,NA
+585,Sentry,Male,blue,Mutant,Blond,188,Marvel Comics,NA,neutral,87
+586,Shadow King,NA,red,NA,NA,185,Marvel Comics,NA,good,149
+588,Shadowcat,Female,hazel,Mutant,Brown,168,Marvel Comics,NA,good,50
+589,Shang-Chi,Male,brown,Human,Black,178,Marvel Comics,NA,good,79
+590,Shatterstar,Male,brown,NA,Red,191,Marvel Comics,NA,good,88
+591,She-Hulk,Female,green,Human,Green,201,Marvel Comics,NA,good,315
+592,She-Thing,Female,blue,Human / Radiation,No Hair,183,Marvel Comics,NA,good,153
+593,Shocker,Male,brown,Human,Brown,175,Marvel Comics,NA,bad,79
+594,Shriek,Female,yellow / blue,NA,Black,173,Marvel Comics,NA,good,52
+596,Sif,Female,blue,Asgardian,Black,188,Marvel Comics,NA,good,191
+597,Silk,Female,brown,Human,Black,NA,Marvel Comics,NA,good,NA
+600,Silver Surfer,Male,white,Alien,No Hair,193,Marvel Comics,silver,good,101
+601,Silverclaw,Female,brown,NA,Black,157,Marvel Comics,NA,good,50
+606,Siryn,Female,blue,NA,Strawberry Blond,168,Marvel Comics,NA,bad,52
+607,Skaar,Male,green,NA,Black,198,Marvel Comics,NA,good,180
+608,Snake-Eyes,Male,NA,Animal,NA,NA,Marvel Comics,NA,bad,NA
+609,Snowbird,Female,white,NA,Blond,178,Marvel Comics,NA,good,49
+612,Songbird,Female,green,NA,Red / White,165,Marvel Comics,NA,good,65
+616,Speedball,Male,NA,NA,NA,NA,Marvel Comics,NA,good,NA
+619,Spider-Carnage,Male,NA,Symbiote,NA,NA,Marvel Comics,NA,bad,NA
+620,Spider-Girl,Female,blue,Human,Brown,170,Marvel Comics,NA,good,54
+621,Spider-Gwen,Female,blue,Human,Blond,165,Marvel Comics,NA,good,56
+622,Spider-Man,Male,hazel,Human,Brown,178,Marvel Comics,NA,good,74
+623,Spider-Man,NA,red,Human,Brown,178,Marvel Comics,NA,good,77
+624,Spider-Man,Male,brown,Human,Black,157,Marvel Comics,NA,good,56
+625,Spider-Woman,Female,green,Human,Black,178,Marvel Comics,NA,good,59
+626,Spider-Woman II,Female,NA,NA,NA,NA,Marvel Comics,NA,good,NA
+627,Spider-Woman III,Female,brown,NA,Brown,173,Marvel Comics,NA,good,55
+628,Spider-Woman IV,Female,red,NA,White,178,Marvel Comics,NA,bad,58
+630,Spyke,Male,brown,Mutant,Blond,183,Marvel Comics,NA,good,83
+631,Stacy X,Female,NA,NA,NA,NA,Marvel Comics,NA,good,NA
+632,Star-Lord,Male,blue,Human-Spartoi,Blond,188,Marvel Comics,NA,good,79
+633,Stardust,Male,NA,NA,NA,NA,Marvel Comics,NA,good,NA
+640,Storm,Female,blue,Mutant,White,180,Marvel Comics,NA,good,57
+642,Sunspot,Male,brown,Mutant,black,173,Marvel Comics,NA,good,77
+648,Swarm,Male,yellow,Mutant,No Hair,196,Marvel Comics,yellow,bad,47
+650,Synch,Male,brown,NA,Black,180,Marvel Comics,NA,good,74
+655,Taskmaster,Male,brown,Human,Brown,188,Marvel Comics,NA,bad,99
+656,Tempest,Female,brown,NA,Black,163,Marvel Comics,NA,good,54
+657,Thanos,Male,red,Eternal,No Hair,201,Marvel Comics,purple,bad,443
+660,Thing,Male,blue,Human / Radiation,No Hair,183,Marvel Comics,NA,good,225
+661,Thor,Male,blue,Asgardian,Blond,198,Marvel Comics,NA,good,288
+662,Thor Girl,Female,blue,Asgardian,Blond,175,Marvel Comics,NA,good,143
+663,Thunderbird,Male,brown,NA,Black,185,Marvel Comics,NA,good,101
+664,Thunderbird II,Male,NA,NA,NA,NA,Marvel Comics,NA,good,NA
+665,Thunderbird III,Male,brown,NA,Black,175,Marvel Comics,NA,good,74
+666,Thunderstrike,Male,blue,NA,Blond,198,Marvel Comics,NA,good,288
+667,Thundra,Female,green,NA,Red,218,Marvel Comics,NA,good,158
+668,Tiger Shark,Male,grey,Human,No Hair,185,Marvel Comics,grey,bad,203
+669,Tigra,Female,green,NA,Auburn,178,Marvel Comics,NA,good,81
+670,Tinkerer,Male,brown,NA,White,163,Marvel Comics,NA,bad,54
+672,Toad,Male,black,Mutant,Brown,175,Marvel Comics,green,neutral,76
+673,Toxin,Male,blue,Symbiote,Brown,188,Marvel Comics,NA,good,97
+674,Toxin,Male,black,Symbiote,Blond,191,Marvel Comics,NA,good,117
+679,Triton,Male,green,Inhuman,No Hair,188,Marvel Comics,green,good,86
+681,Ultragirl,Female,blue,NA,Blond,168,Marvel Comics,NA,good,105
+682,Ultron,Male,red,Android,NA,206,Marvel Comics,silver,bad,331
+683,Utgard-Loki,Male,blue,Frost Giant,White,15.2,Marvel Comics,NA,bad,58
+684,Vagabond,Female,blue,NA,Strawberry Blond,168,Marvel Comics,NA,good,54
+686,Valkyrie,Female,blue,NA,Blond,191,Marvel Comics,NA,good,214
+687,Vanisher,Male,green,NA,No Hair,165,Marvel Comics,NA,bad,79
+689,Venom,Male,blue,Symbiote,Strawberry Blond,191,Marvel Comics,NA,bad,117
+690,Venom II,Male,brown,NA,Black,175,Marvel Comics,NA,bad,50
+691,Venom III,Male,brown,Symbiote,Brown,229,Marvel Comics,NA,bad,334
+692,Venompool,Male,NA,Symbiote,NA,226,Marvel Comics,NA,NA,NA
+693,Vertigo II,Female,blue,NA,Silver,168,Marvel Comics,NA,good,52
+695,Vindicator,Female,green,Human,Red,165,Marvel Comics,NA,good,54
+696,Vindicator,Male,NA,NA,NA,NA,Marvel Comics,NA,good,NA
+699,Vision,Male,gold,Android,No Hair,191,Marvel Comics,red,good,135
+700,Vision II,NA,red,NA,No Hair,191,Marvel Comics,NA,good,135
+702,Vulcan,Male,black,NA,Black,NA,Marvel Comics,NA,good,NA
+703,Vulture,Male,brown,Human,No Hair,180,Marvel Comics,NA,bad,79
+704,Walrus,Male,blue,Human,Black,183,Marvel Comics,NA,bad,162
+705,War Machine,Male,brown,Human,Brown,185,Marvel Comics,NA,good,95
+706,Warbird,Female,blue,NA,Blond,180,Marvel Comics,NA,good,54
+707,Warlock,Male,red,NA,Blond,188,Marvel Comics,NA,good,108
+709,Warpath,Male,brown,Mutant,Black,218,Marvel Comics,NA,good,158
+710,Wasp,Female,blue,Human,Auburn,163,Marvel Comics,NA,good,50
+711,Watcher,Male,NA,NA,NA,NA,Marvel Comics,NA,good,NA
+712,Weapon XI,Male,NA,NA,NA,NA,Marvel Comics,NA,bad,NA
+714,White Queen,Female,blue,NA,Blond,178,Marvel Comics,NA,good,65
+716,Winter Soldier,Male,brown,Human,Brown,175,Marvel Comics,NA,good,117
+717,Wiz Kid,NA,brown,NA,Black,140,Marvel Comics,NA,good,39
+718,Wolfsbane,Female,green,NA,Auburn,366,Marvel Comics,NA,good,473
+719,Wolverine,Male,blue,Mutant,Black,160,Marvel Comics,NA,good,135
+721,Wonder Man,Male,red,NA,Black,188,Marvel Comics,NA,good,171
+723,Wondra,Female,NA,NA,NA,NA,Marvel Comics,NA,good,NA
+724,Wyatt Wingfoot,Male,brown,NA,Black,196,Marvel Comics,NA,good,117
+725,X-23,Female,green,Mutant / Clone,Black,155,Marvel Comics,NA,good,50
+726,X-Man,Male,blue,NA,Brown,175,Marvel Comics,NA,good,61
+727,Yellow Claw,Male,blue,NA,No Hair,188,Marvel Comics,NA,bad,95
+728,Yellowjacket,Male,blue,Human,Blond,183,Marvel Comics,NA,good,83
+729,Yellowjacket II,Female,blue,Human,Strawberry Blond,165,Marvel Comics,NA,good,52
+730,Ymir,Male,white,Frost Giant,No Hair,304.8,Marvel Comics,white,good,NA

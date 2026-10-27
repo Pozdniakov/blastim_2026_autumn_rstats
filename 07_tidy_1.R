@@ -28,11 +28,7 @@ heroes_dt[Alignment == "good",
 # install.packages("httr2")
 # 
 # install.packages("vctrs")
-library(tidyverse)
-
-heroes_tbl <- read_csv("https://raw.githubusercontent.com/Pozdniakov/tidy_stats/refs/heads/master/data/heroes_information.csv",
-         na = c("-99", "-", "NA"))
-
+ 
 class(heroes_tbl)
 
 heroes_tbl %>%
