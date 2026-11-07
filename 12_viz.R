@@ -153,3 +153,5 @@ ggplot() +
        y = "Bill depth, mm",
        colour = "Bill depth, mm") +
   hrbrthemes::theme_ipsum()
+
+ggsave("penguins.png")
